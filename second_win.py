@@ -1,1 +1,1 @@
-# write a code for the second screen of app
+# write a code for the second app
